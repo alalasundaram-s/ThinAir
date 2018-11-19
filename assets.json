@@ -1,0 +1,69 @@
+[ 
+  { 
+    "assetType": "Vehicle",
+    "createDate": "2018-02-13T03:29:36.287Z",
+    "eldConnectionType": "wifi_direct_pin_mode",
+    "eldDevice": "DigiWVA",
+    "eldDeviceName": "Dev01",
+    "eldEsn": 1234567890,
+    "eldMacAddress": "A4:3D:2A:FC:C7:59",
+    "eldPassword": "MAZS92A004",
+    "eldPin": "1234",
+    "eldWifiApSsid": "SSID_1234",
+    "eldWifiApPassword": "1234",
+    "fields":[ 
+      { 
+        "name":"__eld_pin",
+        "value":"1234"
+      },
+      { 
+        "name":"__eld_password",
+        "value":"MAZS92A004"
+      },
+      { 
+        "name":"__eld_wifi_ap_password",
+        "value":"1234"
+      },
+      { 
+        "name":"__eld_connection_type",
+        "value":"wifi_direct_pin_mode"
+      },
+      { 
+        "name":"__eld_device",
+        "value":"DigiWVA"
+      },
+      { 
+        "name":"__eld_mac_address",
+        "value":"98:87:76:65:54:A4"
+      },
+      { 
+        "name":"__eld_device_name",
+        "value":"Dev01"
+      },
+      {
+        "name":"__eld_wifi_ap_ssid",
+        "value":"SSID_1234"
+      }
+    ],
+    "firmwareVersion": "",
+    "formIds": [
+      1227
+    ],
+    "gpsSource": "EITHER_DEVICE",
+    "homeTerminalId": 12708,
+    "licensePlate": "VEH-X01",
+    "licensePlateState": "IL",
+    "name": "Truck01",
+    "regulationMode": "ELD",
+    "odometerOffsetKm": 0.0,
+    "useGpsOdometer": false,
+    "useManualEngineHours": false,
+    "vin": "-5TDZA22C04S100724",
+    "visibilitySetIds": [
+      13017
+    ],
+    "accountId": 1259472,
+    "id": 1452357,
+    "lastChangedDate": "2018-02-13T03:29:36.287Z"
+  }
+]
