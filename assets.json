@@ -1,4 +1,4 @@
-[ 
+[
   { 
     "assetType": "Vehicle",
     "createDate": "2018-02-13T03:29:36.287Z",
@@ -65,5 +65,74 @@
     "accountId": 1259472,
     "id": 1452357,
     "lastChangedDate": "2018-02-13T03:29:36.287Z"
+  } ,
+  
+  { 
+    "assetType": "Vehicle",
+    "createDate": "2018-10-13T03:29:36.287Z",
+    "eldConnectionType": "wifi_direct_pin_mode",
+    "eldDevice": "DigiWVA",
+    "eldDeviceName": "Dev02",
+    "eldEsn": 1234567891,
+    "eldMacAddress": "A4:3D:2A:FC:C7:60",
+    "eldPassword": "MAZS92A005",
+    "eldPin": "1235",
+    "eldWifiApSsid": "SSID_1235",
+    "eldWifiApPassword": "1235",
+    "fields":[ 
+      { 
+        "name":"__eld_pin",
+        "value":"1235"
+      },
+      { 
+        "name":"__eld_password",
+        "value":"MAZS92A005"
+      },
+      { 
+        "name":"__eld_wifi_ap_password",
+        "value":"1235"
+      },
+      { 
+        "name":"__eld_connection_type",
+        "value":"wifi_direct_pin_mode"
+      },
+      { 
+        "name":"__eld_device",
+        "value":"DigiWVA"
+      },
+      { 
+        "name":"__eld_mac_address",
+        "value":"98:87:76:65:54:A5"
+      },
+      { 
+        "name":"__eld_device_name",
+        "value":"Dev02"
+      },
+      {
+        "name":"__eld_wifi_ap_ssid",
+        "value":"SSID_1235"
+      }
+    ],
+    "firmwareVersion": "",
+    "formIds": [
+      1227
+    ],
+    "gpsSource": "EITHER_DEVICE",
+    "homeTerminalId": 12709,
+    "licensePlate": "VEH-X02",
+    "licensePlateState": "IL",
+    "name": "Truck02",
+    "regulationMode": "ELD",
+    "odometerOffsetKm": 0.0,
+    "useGpsOdometer": false,
+    "useManualEngineHours": false,
+    "vin": "-5TDZA22C04S100725",
+    "visibilitySetIds": [
+      13018
+    ],
+    "accountId": 1259472,
+    "id": 1452358,
+    "lastChangedDate": "2018-10-13T03:29:36.287Z"
   }
+  
 ]
