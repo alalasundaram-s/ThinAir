@@ -11,5 +11,32 @@
     "location": "160 E Illinois St, Chicago, IL 60611, USA",
     "accountId": 1250232,
     "id": 831
+  },
+  {
+    "userId": 1268897,
+    "assetId": 1452358,
+    "position": "POINT (-88.6235815 42.8911622)",
+    "longitude": -88.6235815,
+    "latitude": 42.8911622,
+    "eventTime": "2017-09-07T07:40:31.602Z",
+    "totalOdometerKm": 845.53,
+    "totalEngineHours": "PT3086064006", 
+    "location": "160 E Illinois St, Chicago, IL 60611, USA",
+    "accountId": 1250232,
+    "id": 832
+  },
+  {
+    "userId": 1268897,
+    "assetId": 1452359,
+    "position": "POINT (-89.6235815 43.8911622)",
+    "longitude": -89.6235815,
+    "latitude": 43.8911622,
+    "eventTime": "2017-09-07T07:40:31.602Z",
+    "totalOdometerKm": 881.53,
+    "totalEngineHours": "PT3086064044", 
+    "location": "160 E Illinois St, Chicago, IL 60611, USA",
+    "accountId": 1250232,
+    "id": 833
   }
+  
 ]
